@@ -4,6 +4,6 @@ public class DummyClass {
 
 	public static void main()
 	{
-		System.out.println("My first change");
+		System.out.println("Feature2 branch");
 	}
 }
